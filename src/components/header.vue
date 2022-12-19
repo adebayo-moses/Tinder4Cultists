@@ -5,6 +5,7 @@
         </div>
         <nav>
             <ul class="flex">
+              <router-link to="/about">About Us</router-link>
                 <li>Testimonials</li>
                 <li>Aro</li>
                 <li>Bucanner</li>

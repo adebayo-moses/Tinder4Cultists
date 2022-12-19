@@ -1,6 +1,7 @@
 <template>
     <div>
-
+<p>This is the about page</p>
+<RouterLink to="/">Click here to go back to home page</RouterLink>
     </div>
 </template>
 
