@@ -10,7 +10,7 @@
                     <div class="zero-content">
                         <h2>Oops! Love for where?</h2>
                         <p>pretty sure your ribs is missing, can't be our page that's missing.  <i class="worried"></i></p>
-                        <RouterLink to="/" class="btn">Click here to go back to home page<i class="button-double-right"></i></RouterLink>
+                        <RouterLink to="/" class="btn-404">Click here to go back to home page<i class="button-double-right"></i></RouterLink>
                     </div>
                 </div>
                 </div>
