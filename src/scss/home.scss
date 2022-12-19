@@ -32,3 +32,55 @@ main {
     width: 40%;
   }
 }
+
+.container {
+  width: 100%;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+}
+
+.fore-zero .section-wrapper .zero-item {
+  padding: 60px;
+    box-shadow: 0px 0px 10px 0px rgb(33 0 83 / 20%);
+    border-radius: 5px;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.zero-content p {
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: #033e46;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #033e46;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.btn {
+    font-size: 1em;
+    background: rgb(255, 0, 0);
+    color: aliceblue;
+    padding: 1.5rem 2em;
+    border: 1px solid black;
+  margin: 0;
+  position: relative;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
