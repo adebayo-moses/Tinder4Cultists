@@ -1,12 +1,12 @@
 <template>
    <header class="child_wrap flex">
         <div class="logo">
-           <img src="@/assets/logo.svg" alt="">
+           <a href="/"><img src="@/assets/logo.svg" alt=""></a>
         </div>
         <nav>
             <ul class="flex">
               <router-link to="/about">About Us</router-link>
-                <li>Testimonials</li>
+                <router-link to="/testimonials">Testimonials</router-link>
                 <li>Aro</li>
                 <li>Bucanner</li>
                 <li>BlackAxe</li>
